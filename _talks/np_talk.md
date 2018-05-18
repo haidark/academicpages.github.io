@@ -8,6 +8,8 @@ date: 2017-03-11
 location: "New Paltz NY, USA"
 ---
 
+This workshop covered the theoretical and practical fundamentals of neural networks for engineers.
+
 [More information here](http://haidark.github.io/files/np_talk.pdf)
 
-This workshop covered the theoretical and practical fundamentals of neural networks for engineers.
+
