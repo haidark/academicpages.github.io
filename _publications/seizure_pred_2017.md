@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Biomedical Engineering'
 paperurl: 'http://haidark.github.io/files/seizure_pred_2017.pdf'
 citation: 'Khan, Haidar. (2017). &quot;Focal onset seizure prediction using convolutional networks.&quot; <i>IEEE Transactions on Biomedical Engineering</i>.'
 ---
-We apply convolutional neural networks to wavelet tensors for focal onset seizure prediction using a change point detection algorithm to set the prediction horizon.
+We apply convolutional neural networks to wavelet tensors for focal onset seizure prediction using a change point detection algorithm to determing the prediction horizon from the data.
 
 [Download paper here](http://haidark.github.io/files/seizure_pred_2017.pdf)
 
