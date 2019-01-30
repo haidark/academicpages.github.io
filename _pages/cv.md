@@ -13,10 +13,15 @@ Education
 ======
 * B.S. in Computer Engineering, SUNY New Paltz, 2013
 * M.S. in Computer Science, Rensselaer Polytechnic Institute, 2017
-* Ph.D in Computer Science, Rensselaer Polytechnic Institute, 2019 (expected)
+* Ph.D in Computer Science, Rensselaer Polytechnic Institute, 2019
 
 Work experience
 ======
+* Summer 2018: Intern
+  * Siements Corporate Technology
+  * Parallel Reinforcement Learning
+  * Supervisor: Philipp Schaefer
+
 * Fall 2017: Research Assistant
   * Rensselaer Polytechnic Institute
   * Epileptic seizure prediction using deep learning
@@ -66,5 +71,5 @@ Talks
   
 Service and leadership
 ======
-* Outstanding graduate - 2013
+* Outstanding Graduate - 2013
 * Steve Bogart Engineering Scholarship - 2012
