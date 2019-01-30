@@ -6,10 +6,5 @@ excerpt: 'We propose a method for classifying human-object interactions in video
 date: 2014-12-08
 venue: 'International Conference on Pattern Recognition (ICPR)'
 paperurl: 'http://haidark.github.io/files/inter_rec.pdf'
-citation: 'Khan, Haidar. (2014). &quot;Interaction recognition using sparse portraits.&quot; <i>International Conference on Pattern Recognition (ICPR)</i>.'
+citation: 'Bogun, I., Khan, H., Chen, J., & Ribeiro, E. (2014). &quot;Interaction recognition using sparse portraits.&quot; <i>International Conference on Pattern Recognition (ICPR)</i>.'
 ---
-We propose a method for classifying human-object interactions in videos by combining motion and appearance information.
-
-[Download paper here](http://haidark.github.io/files/inter_rec.pdf)
-
-Recommended citation: Bogun, I., Khan, H., Chen, J., & Ribeiro, E. (2014, August). Interaction Recognition Using Sparse Portraits. In Pattern Recognition (ICPR), 2014 22nd International Conference on (pp. 2531-2536). IEEE.
