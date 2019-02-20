@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/kaust_ai_talk
 venue: "King Abdullah University of Science and Technology (KAUST)"
-date: 2018-09-05
+date: 2019-02-20
 location: "Thuwal 23955"
 ---
 
