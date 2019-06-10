@@ -1,7 +1,7 @@
 ---
 title: 'Journey into NLP 2'
 date: 2019-04-18
-permalink: /posts/jnlp2/
+permalink: /post/jnlp2/
 tags:
   - natural language processing
 ---
