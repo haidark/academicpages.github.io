@@ -1,7 +1,7 @@
 ---
-title: 'Journey into NLP 1'
-date: 2019-03-08
-permalink: /posts/jnlp1/
+title: 'Journey into NLP 2'
+date: 2019-04-18
+permalink: /posts/jnlp2/
 tags:
   - natural language processing
 ---
@@ -10,7 +10,7 @@ This series of articles follows my first steps into natural language processing.
 
 In this first article I discuss word embeddings: what they are and how they used.
 
-[Read-only Notebook (HTML)](/files/JNLP/JNLP 1 - Word Representations)
+[Read-only Notebook (HTML)](/files/JNLP/JNLP 2 - Sentiment Classification)
 
-[Executable Notebook](/files/JNLP/JNLP 1 - Word Representations)
+[Executable Notebook](/files/JNLP/JNLP 2 - Sentiment Classification)
 ------
