@@ -1,6 +1,5 @@
 ---
 layout: archive
-collection: blog
 title: "Blog"
 permalink: /blog/
 author_profile: true

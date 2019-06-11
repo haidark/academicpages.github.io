@@ -1,7 +1,8 @@
 ---
 title: 'Journey into NLP 1'
+collection: blog
 date: 2019-03-08
-permalink: /post/jnlp1/
+permalink: /blog/jnlp1/
 tags:
   - natural language processing
 ---
