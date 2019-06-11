@@ -10,8 +10,8 @@ This series of articles follows my first steps into natural language processing.
 
 In this first article I discuss word embeddings: what they are and how they used.
 
-[Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations)
+<!-- [Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations) -->
 
-[Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations)
+<!-- [Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations) -->
 
 ------
