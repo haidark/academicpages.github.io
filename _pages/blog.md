@@ -12,9 +12,9 @@ This series of articles follows my first steps into natural language processing.
 ### [JNLP 1 - Word Representations](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations)
 In the first article I discuss word embeddings: what they are and how they used.
 
-[Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations) / [Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations.ipynb)
+*** [Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations) / [Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 1 - Word Representations.ipynb) ***
 
 ### [JNLP 2 - Word Representations](http://haidark.github.io/files/JNLP/JNLP 2 - Sentiment Classification)
 The second article introduces a basic natural language problem, classifying the sentiment expressed in a short text.
 
-[Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 2 - Sentiment Classification) / [Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 2 - Sentiment Classification.ipynb)
+*** [Read-only Notebook (HTML)](http://haidark.github.io/files/JNLP/JNLP 2 - Sentiment Classification) / [Executable Notebook](http://haidark.github.io/files/JNLP/JNLP 2 - Sentiment Classification.ipynb) ***
